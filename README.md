@@ -33,4 +33,3 @@ webpage path --> www/main
 ```
 Usage of these tool for attacking targets without prior consent is illegal. It's the end user's responsibility to obey all applicable laws. The developer is not responsible for any misuse of these tool.
 ```
-# BITB
